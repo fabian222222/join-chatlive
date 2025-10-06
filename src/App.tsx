@@ -1,7 +1,15 @@
+import StreamContainer from "./components/stream/StreamContainer";
+import { SocketProvider } from "./providers/SocketProvider";
+import { StreamProvider } from "./providers/StreamProvider";
+
 function App() {
   return (
     <>
-      <div> test </div>
+      <SocketProvider>
+        <StreamProvider>
+          <StreamContainer />
+        </StreamProvider>
+      </SocketProvider>
     </>
   );
 }
