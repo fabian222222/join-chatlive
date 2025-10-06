@@ -27,19 +27,19 @@ J'ai utilisé les lib suivantes :
 
 Quand j'ai commencé voici la liste des features que je voulais faire (avec les prio qui vont avec) :
 
-avoir une archi clean code / plus important
-pouvoir lire les messages / 1
-pouvoir envoyer un message / 1
-pouvoir masquer/afficher le chat / 1
-pouvoir auto scroll les messages / 1
-pouvoir mettre en pause l'auto scroll / 1
-pouvoir voir les personnes du chat / 2
-pouvoir filtrer les personnes du chat / 2
-pouvoir afficher les points sur la chaine / bits / 2
-pouvoir highlight les messages au click / 3
-pouvoir personnaliser son apparence dans le chat / 3
-pouvoir parametrer le chat / 3
-pouvoir envoyer des emojis liés à la chaine / 3
+- avoir une archi clean code / plus important
+- pouvoir lire les messages / 1
+- pouvoir envoyer un message / 1
+- pouvoir masquer/afficher le chat / 1
+- pouvoir auto scroll les messages / 1
+- pouvoir mettre en pause l'auto scroll / 1
+- pouvoir voir les personnes du chat / 2
+- pouvoir filtrer les personnes du chat / 2
+- pouvoir afficher les points sur la chaine / bits / 2
+- pouvoir highlight les messages au click / 3
+- pouvoir personnaliser son apparence dans le chat / 3
+- pouvoir parametrer le chat / 3
+- pouvoir envoyer des emojis liés à la chaine / 3
 
 J'ai évité les trois derniers sinon j'allais durer trop longtemps
 
